@@ -19,7 +19,7 @@ parent: ZTE
 | HSGMII      | No                                                                |
 | Optics      | SC/APC                                                            |
 | IP address  | 192.168.1.1                                                       |
-| Web Gui     | ✅ user `admin`, password `admin` or user `user`, password `user` |
+| Web Gui     | ✅ user `admin`, password `admin` or user `user`, password `user` or user `!!&&Admin123`, password `BRJT3&FA!YG6XM` |
 | SSH         |                                                                   |
 | Form Factor | ONT                                                               |
 
